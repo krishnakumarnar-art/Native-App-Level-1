@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence Dashboard",
+  "description": "A responsive Retail Sales Intelligence Dashboard for business users featuring KPI metrics, interactive charts, data filters, and server-side AI-generated business summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
